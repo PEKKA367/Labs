@@ -1,7 +1,6 @@
-// It will show 'Hi there!' in the console
+// it will work even though we created the function later. That`s hoisting
 greetings();
 
-// Function declaration
 function greetings() {
     console.log('Hi there!');
 }
